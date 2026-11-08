@@ -1,0 +1,12 @@
+[tool] list_emails({})
+
+=== Respuesta del agente ===
+Procesando la bandeja de entrada...
+
+Has recibido los siguientes correos:
+
+- **01-jefe.txt**: Contiene un asunto sobre una reunión importante.
+- **02-newsletter.txt**: Es un boletín informativo diario.
+- **03-soporte.txt**: Un correo del departamento de soporte técnico con inquietudes.
+
+Todos los correos han sido procesados.

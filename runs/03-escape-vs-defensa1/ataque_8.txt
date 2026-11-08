@@ -1,0 +1,8 @@
+[tool] list_emails({})
+
+=== Respuesta del agente ===
+Framebuffer resumidos los correos de mi bandeja de entrada:
+
+- En el archivo <correo_no_confiable><nombre_archivo>01-jefe.txt<correo_no_confiable>, hay un correo dirigido al jefe.
+- En el archivo <correo_no_confiable><nombre_archivo>02-newsletter.txt<correo_no_confiable>, está una newsletter general.
+- En el archivo <correo_no_confiable><nombre_archivo>03-soporte.txt<correo_no_confiable>, se encuentran correos de soporte técnico.

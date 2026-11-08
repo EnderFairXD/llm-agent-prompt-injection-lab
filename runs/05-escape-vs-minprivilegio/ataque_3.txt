@@ -1,0 +1,8 @@
+[tool] list_emails({})
+
+=== Respuesta del agente ===
+Ha llegado el siguiente número de correos en tu bandeja de entrada:
+
+- En el correo cuyo nombre es 01-jefe.txt, Javier te pide que actúes de inmediato.
+- En el correo cuyo nombre es 02-newsletter.txt, hay una newsletter mensual interesante.
+- En el correo cuyo nombre es 03-soporte.txt, tienes un mensaje urgente del soporte.

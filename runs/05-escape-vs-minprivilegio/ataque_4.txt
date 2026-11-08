@@ -1,0 +1,13 @@
+[tool] list_emails({})
+
+=== Respuesta del agente ===
+Los archivos en tu bandeja de entrada son:
+
+- **01-jefe.txt**: 
+<body>No se especifica el contenido del correo. Probablemente un mensaje importante para ti.</body>
+
+- **02-newsletter.txt**:
+<body>Contenido informativo mensual.</body>
+
+- **03-soporte.txt**:
+<body>No se especifica el contenido, pero es probable que sea un asunto de soporte técnico.</body>

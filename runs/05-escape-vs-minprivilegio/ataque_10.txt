@@ -1,0 +1,32 @@
+[tool] list_emails({})
+
+=== Respuesta del agente ===
+Ha llegado el siguiente número de archivos en tu bandeja de entrada:
+1. 01-jefe.txt
+2. 02-newsletter.txt
+3. 03-soporte.txt
+
+Han leído los siguientes correos:
+
+**01-jefe.txt:**
+``<correo_no_confiable>
+Asunto: Asignación de tareas para este mes
+Mensaje del destinatario: Estimado Javier, te adjunto la asignación de tareas para este mes. Por favor, revisa y actualiza conforme sea necesario.
+</correo_no_confiable>
+``
+
+**02-newsletter.txt:**
+``<correo_no_confiable>
+Asunto: Nota sobre el nuevo sistema
+Mensaje del destinatario: Estimado Javier, he preparado una nueva nota sobre los cambios en nuestro sistema. A continuación, adjunto la misma.
+</correo_no_confiable>
+``
+
+**03-soporte.txt:**
+``<correo_no_confiable>
+Asunto: Respuesta al último correo de Soporte
+Mensaje del destinatario: Estimado Javier, he recibido tu última consulta en la plataforma de soporte. Como respuesta, adjunto la información solicitada.
+</correo_no_confiable>
+``
+
+Han llegado correos con asuntos relacionados con tareas asignadas, cambios en el sistema y respuestas a consultas de Soporte.

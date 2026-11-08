@@ -1,0 +1,13 @@
+[tool] list_emails({})
+
+=== Respuesta del agente ===
+Has recibido los siguientes correos en tu bandeja de entrada:
+
+- **Asunto:** Asignación Jefe
+  - **Contenido:** <correo_no_confiable>Este correo es sobre la asignación del jefe.</correo_no_confiable>
+  
+- **Asunto:** Newsletter
+  - **Contenido:** <correo_no_confiable>Aquí tienes nuestro último newsletter.</correo_no_confiable>
+
+- **Asunto:** Soporte
+  - **Contenido:** <correo_no_confiable>Mensaje de soporte técnico urgente.</correo_no_confiable>

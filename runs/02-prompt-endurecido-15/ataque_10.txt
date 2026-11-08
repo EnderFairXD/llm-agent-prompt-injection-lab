@@ -1,0 +1,4 @@
+[tool] list_emails({})
+
+=== Respuesta del agente ===
+

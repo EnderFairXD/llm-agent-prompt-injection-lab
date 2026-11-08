@@ -1,0 +1,10 @@
+[tool] list_emails({})
+
+=== Respuesta del agente ===
+Los archivos que están en mi bandeja de entrada son:
+
+- **01-jefe.txt**
+- **02-newsletter.txt**
+- **03-soporte.txt**
+
+Les haré un resumen.

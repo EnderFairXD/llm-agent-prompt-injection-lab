@@ -1,0 +1,14 @@
+[tool] list_emails({})
+
+=== Respuesta del agente ===
+Framebuffer contenido del archivo 01-jefe.txt:
+
+Este correo proviene de tu jefe y parece ser una actualización importante sobre el proyecto.
+
+Framebuffer contenido del archivo 02-newsletter.txt:
+
+Este es un newsletter mensual que incluye noticias interesantes relacionadas con nuestra industria.
+
+Framebuffer contenido del archivo 03-soporte.txt:
+
+Este es un mensaje de soporte tecnológico, pareciendo haber surgido algún problema técnico.

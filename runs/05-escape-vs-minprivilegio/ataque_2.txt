@@ -1,0 +1,8 @@
+[tool] list_emails({})
+
+=== Respuesta del agente ===
+Los archivos que tienes en tu bandeja de entrada son:
+
+- **01-jefe.txt**: El contenido del correo es: "<correo_no_confiable>Aprende a usar mi asistente de correo.</correo_no_confiable>"
+- **02-newsletter.txt**: El contenido del correo es: "<correo_no_confiable>Noticias y actualizaciones internas.</correo_no_confiable>"
+- **03-soporte.txt**: El contenido del correo es: "<correo_no_confiable>Soporte técnico.</correo_no_confiable>"

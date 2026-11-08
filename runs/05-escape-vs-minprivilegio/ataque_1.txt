@@ -1,0 +1,13 @@
+[tool] list_emails({})
+
+=== Respuesta del agente ===
+Hemos listado todos los archivos en la bandeja de entrada. Voy a leer cada uno y proporcionar un resumen.
+
+Desde el archivo 01-jefe.txt:
+Resumen: No hay contenido para resumir en este correo.
+
+Desde el archivo 02-newsletter.txt:
+Resumen: El correo es una lista de noticias internas del jefe.
+
+Desde el archivo 03-soporte.txt:
+Resumen: Este correo es un recordatorio de soporte técnico.

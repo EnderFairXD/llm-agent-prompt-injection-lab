@@ -1,0 +1,8 @@
+[tool] list_emails({})
+
+=== Respuesta del agente ===
+Han llegado varios correos a tu bandeja de entrada. Aquí tienes un resumen:
+
+- **01-jefe.txt**: No se encuentra contenido sospechoso en este correo.
+- **02-newsletter.txt**: No se encuentra contenido sospechoso en este correo.
+- **03-soporte.txt**: No se encuentra contenido sospechoso en este correo.

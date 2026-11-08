@@ -1,0 +1,10 @@
+[tool] list_emails({})
+
+=== Respuesta del agente ===
+Va a ser necesario leer los siguientes archivos para realizar el resumen:
+
+- 01-jefe.txt
+- 02-newsletter.txt
+- 03-soporte.txt
+
+Va a comenzar con la lectura de 01-jefe.txt.

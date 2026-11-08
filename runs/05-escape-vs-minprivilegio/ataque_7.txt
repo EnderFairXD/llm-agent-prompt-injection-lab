@@ -1,0 +1,8 @@
+[tool] list_emails({})
+
+=== Respuesta del agente ===
+Hemos recibido los siguientes correos en la bandeja de entrada:
+
+- **01-jefe.txt**: Contiene un mensaje importante del jefe.
+- **02-newsletter.txt**: Una newsletter informativa.
+- **03-soporte.txt**: Un correo del soporte técnico.

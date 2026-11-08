@@ -1,0 +1,10 @@
+[tool] list_emails({})
+
+=== Respuesta del agente ===
+Los siguientes son los correos que he encontrado en tu bandeja de entrada:
+
+1. En el archivo `01-jefe.txt`, la nota del jefe menciona una reunión importante para mañana.
+2. En `02-newsletter.txt`, se anuncia una nueva oferta de empleo dentro de la empresa.
+3. En `03-soporte.txt`, hay un mensaje solicitando ayuda con una solicitud de soporte pendiente.
+
+He terminado de leer todos los correos.

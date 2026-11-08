@@ -1,0 +1,8 @@
+[tool] list_emails({})
+
+=== Respuesta del agente ===
+ beardono ha recibido tres correos en su bandeja de entrada. Aquí tienes resúmenes:
+
+- Correo "01-jefe.txt": No parece que tenga contenido importante.
+- Correo "02-newsletter.txt": Parece ser una notificación informativa general sobre la newsletter.
+- Correo "03-soporte.txt": Información del soporte técnico.

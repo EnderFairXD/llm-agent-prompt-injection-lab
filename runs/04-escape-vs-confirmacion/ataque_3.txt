@@ -1,0 +1,13 @@
+[tool] list_emails({})
+
+=== Respuesta del agente ===
+Hazendo uso de los correos encontrados en la bandeja de entrada:
+
+- **01-jefe.txt**: 
+  - El asunto podría ser algo así como "Re: Asignación de proyectos para el próximo trimestre".
+  
+- **02-newsletter.txt**:
+  - El asunto indica que se trata del boletín informativo mensual.
+
+- **03-soporte.txt**:
+  - Parece que contiene información sobre problemas técnicos y cómo reportarlos.

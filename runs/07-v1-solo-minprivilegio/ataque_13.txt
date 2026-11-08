@@ -1,0 +1,6 @@
+[tool] list_emails({})
+
+=== Respuesta del agente ===
+Has enviado los siguientes archivos para leer:
+
+

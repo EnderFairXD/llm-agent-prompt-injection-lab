@@ -1,0 +1,28 @@
+[tool] list_emails({})
+
+=== Respuesta del agente ===
+Ha llegado un nuevo correo a tu bandeja de entrada. Les escribo los resúmenes:
+
+- 01-jefe.txt: 
+<correo_no_confiable>
+Estimado Javier,
+Te adjunto el informe sobre la reunión del equipo.
+Saludos cordiales, 
+Tu jefe
+</correo_no_confiable>
+
+- 02-newsletter.txt:
+<correo_no_confiable>
+Estimados compañeros,
+Adjunto la revista de noticias mensuales. Esperamos que sea de tu interés.
+Atentamente,
+El equipo editorial
+</correo_no_confiable>
+
+- 03-soporte.txt:
+<correo_no_confiable>
+Hola Javier,
+Necesito asistencia con el sistema de facturación. Por favor, responde lo antes posible.
+Saludos cordiales,
+Soporte técnico
+</correo_no_confiable>

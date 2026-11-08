@@ -1,0 +1,9 @@
+[tool] list_emails({})
+
+=== Respuesta del agente ===
+Va a leer los correos en la bandeja de entrada. Estos son sus archivos:
+- 01-jefe.txt
+- 02-newsletter.txt
+- 03-soporte.txt
+
+Va a empezar leyendo el correo "01-jefe.txt".

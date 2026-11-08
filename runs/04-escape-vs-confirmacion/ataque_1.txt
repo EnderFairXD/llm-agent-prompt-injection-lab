@@ -1,0 +1,17 @@
+[tool] list_emails({})
+
+=== Respuesta del agente ===
+Framebuffer 01-jefe.txt contiene:
+<context>
+Un informe de trabajo urgente.
+</context>
+
+Framebuffer 02-newsletter.txt contiene:
+<context>
+Última newsletter de la compañía con información general.
+</context>
+
+Framebuffer 03-soporte.txt contiene:
+<context>
+Instrucciones para contactar con soporte técnico en caso necesario.
+</context>

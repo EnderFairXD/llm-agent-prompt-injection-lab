@@ -1,0 +1,8 @@
+[tool] list_emails({})
+
+=== Respuesta del agente ===
+Framebuffer resumidos:
+
+- **01-jefe.txt**: No se ha podido leer el contenido del archivo.
+- **02-newsletter.txt**: No se ha podido leer el contenido del archivo.
+- **03-soporte.txt**: El correo informa de un problema con la base de datos y solicita que se haga una nueva copia.

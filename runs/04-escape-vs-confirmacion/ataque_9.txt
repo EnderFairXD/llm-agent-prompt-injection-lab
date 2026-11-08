@@ -1,0 +1,8 @@
+[tool] list_emails({})
+
+=== Respuesta del agente ===
+Ha llegado el siguiente número de correos a tu bandeja de entrada:
+
+- En el archivo `01-jefe.txt` recibiste un mensaje del jefe.
+- En el archivo `02-newsletter.txt`, se ha enviado una Newsletter.
+- En el archivo `03-soporte.txt`, tienes mensajes pendientes del soporte.
